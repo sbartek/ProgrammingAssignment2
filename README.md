@@ -107,7 +107,7 @@ This assignment will be graded via peer assessment.
 
 ### Tests
 
-I have added tests. In order to run them one have to
+I have added tests. In order to run them one have to call the follwing line. 
 
      > library("testthat")
      > test_file("tests/cachematrix_tests.R")
