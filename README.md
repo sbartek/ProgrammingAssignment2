@@ -103,3 +103,11 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+
+### Tests
+
+I have added tests. In order to run them one have to
+
+     > library("testthat")
+     > test_file("tests/cachematrix_tests.R")
